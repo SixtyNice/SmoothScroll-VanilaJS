@@ -1,0 +1,21 @@
+.box1{
+    height: 100vh;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+a{
+    text-decoration:none;
+    color: crimson;
+    font-size:25px;
+    font-weight:bold;
+    font-family:'Courier New', Courier, monospace;
+}
+.box2{
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
